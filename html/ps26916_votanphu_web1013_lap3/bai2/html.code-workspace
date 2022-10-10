@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../lap3bai2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lap3bai2"
+	}
+}

@@ -1,0 +1,27 @@
+
+div>a{
+    text-decoration: none;
+    font-variant:small-caps;
+    color: blue;
+    font-size: 24px;
+    padding: 0px 10px;
+    
+}
+img{
+    margin: 10px auto;
+    display: block;
+}
+.nav{
+    
+    text-align: center;
+    padding: 10px 0px;
+}
+.gach{
+    border-left: 2px solid black ;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    text-decoration: underline;
+}
